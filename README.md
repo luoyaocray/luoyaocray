@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cray</h1>
 <h3 align="center">i will be better</h3>
 
-- 🔭 I’m currently working on **Team涪韩科技**
+- 🔭 I’m currently working on **Team涪韩科技**(with my bro)
 
 - ⛅ I’m author about **CCIES (Convenient Classroom Interaction Encoding System)**
 
