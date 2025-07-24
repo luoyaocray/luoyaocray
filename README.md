@@ -7,7 +7,7 @@
 
 - 📚 I open source the **UCAS 817 optical** postgraduate entrance examination material
 
-- 🌱 I’m currently learning **Python and Verilog HDL**
+- 🌱 I’m currently learning **Python 、C and Verilog HDL**
 
 - 🥇 I like a word ***"Knowledge isn't free. You have to pay attention" ——Richard P.Feynman***
 
