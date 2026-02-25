@@ -4,6 +4,7 @@
 - ⛅ I’m author about **CCIES (Convenient Classroom Interaction Encoding System)**
 
 - 📚 I open source the **UCAS 817 optical** postgraduate entrance examination material
+- <img src="https://img.shields.io/github/stars/luoyaocray/UCAS_OPTICS_817?style=social" alt="Stars">
 
 - 🌱 I’m currently learning **Python 、C/C++ and Verilog HDL**
 
