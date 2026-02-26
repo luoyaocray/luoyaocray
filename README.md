@@ -45,18 +45,6 @@
   </p>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luoyaocray&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luoyaocray&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/luoyaocray/luoyaocray/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="800">
-</div>
 
 <div align="center">
   <sub>Made with ❤️ by Cray | Keep learning, keep growing</sub>
